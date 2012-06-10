@@ -8,3 +8,8 @@ D:\New\201265\Change\YXShop.Model\bin\Debug\ShowShop.Model.pdb
 D:\New\201265\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
 D:\New\201265\Change\YXShop.Model\obj\Debug\ShowShop.Model.dll
 D:\New\201265\Change\YXShop.Model\obj\Debug\ShowShop.Model.pdb
+D:\GIT\showShop\Change\ShowShop.Model\bin\Debug\ShowShop.Model.dll
+D:\GIT\showShop\Change\ShowShop.Model\bin\Debug\ShowShop.Model.pdb
+D:\GIT\showShop\Change\ShowShop.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\showShop\Change\ShowShop.Model\obj\Debug\ShowShop.Model.dll
+D:\GIT\showShop\Change\ShowShop.Model\obj\Debug\ShowShop.Model.pdb

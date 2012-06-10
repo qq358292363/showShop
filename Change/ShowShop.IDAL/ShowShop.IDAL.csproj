@@ -146,7 +146,7 @@
       <Project>{B0029D16-8421-41B9-A518-42B40EF87F98}</Project>
       <Name>ChangeHope</Name>
     </ProjectReference>
-    <ProjectReference Include="..\YXShop.Model\ShowShop.Model.csproj">
+    <ProjectReference Include="..\ShowShop.Model\ShowShop.Model.csproj">
       <Project>{4662AAAC-1586-4089-8668-8FF4F2699288}</Project>
       <Name>ShowShop.Model</Name>
     </ProjectReference>

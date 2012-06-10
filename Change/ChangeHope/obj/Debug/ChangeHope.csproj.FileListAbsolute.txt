@@ -61,3 +61,8 @@ D:\New\201265\Change\ChangeHope\bin\Debug\ChangeHope.pdb
 D:\New\201265\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
 D:\New\201265\Change\ChangeHope\obj\Debug\ChangeHope.dll
 D:\New\201265\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+D:\GIT\showShop\Change\ChangeHope\bin\Debug\ChangeHope.dll
+D:\GIT\showShop\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+D:\GIT\showShop\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\showShop\Change\ChangeHope\obj\Debug\ChangeHope.dll
+D:\GIT\showShop\Change\ChangeHope\obj\Debug\ChangeHope.pdb

@@ -145,19 +145,19 @@
       <Project>{B0029D16-8421-41B9-A518-42B40EF87F98}</Project>
       <Name>ChangeHope</Name>
     </ProjectReference>
-    <ProjectReference Include="..\YXShop.DALFactory\ShowShop.DALFactory.csproj">
+    <ProjectReference Include="..\ShowShop.DALFactory\ShowShop.DALFactory.csproj">
       <Project>{82C56EF8-54AD-4669-A1C5-DDB6316B393A}</Project>
       <Name>ShowShop.DALFactory</Name>
     </ProjectReference>
-    <ProjectReference Include="..\YXShop.IDAL\ShowShop.IDAL.csproj">
+    <ProjectReference Include="..\ShowShop.IDAL\ShowShop.IDAL.csproj">
       <Project>{104AE5C2-C6A4-41E9-88BB-E3CEFF59B260}</Project>
       <Name>ShowShop.IDAL</Name>
     </ProjectReference>
-    <ProjectReference Include="..\YXShop.Model\ShowShop.Model.csproj">
+    <ProjectReference Include="..\ShowShop.Model\ShowShop.Model.csproj">
       <Project>{4662AAAC-1586-4089-8668-8FF4F2699288}</Project>
       <Name>ShowShop.Model</Name>
     </ProjectReference>
-    <ProjectReference Include="..\YXShop.SQLServerDAL\ShowShop.SQLServerDAL.csproj">
+    <ProjectReference Include="..\ShowShop.SQLServerDAL\ShowShop.SQLServerDAL.csproj">
       <Project>{91E6A323-DDB0-4EE4-9AF2-5AD54624FA34}</Project>
       <Name>ShowShop.SQLServerDAL</Name>
     </ProjectReference>

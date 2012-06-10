@@ -119,7 +119,7 @@ namespace ShowShop.Web.admin.product
                     table.AddCol(dataPage.DataReader["BrandID"].ToString());
                     table.AddCol(dataPage.DataReader["CreateTime"].ToString());
                     table.AddCol(dataPage.DataReader["IsShelves"].ToString() == "1" ? "上架" : "未上架");
-                    table.AddCol(string.Format("<a href=product_info_edit.aspx?productNo={0}>编辑</a> <a href='#' onclick='Del({0})'>删除</a> <a href='../../product/productcontent.aspx?q_productid={0}' target='_blank'>浏览</a><a href=product_info_edit.aspx?productNo={0}>属性添加</a> <a href='../../product/productcontent.aspx?q_productid={0}' target='_blank'>SKU添加</a>", dataPage.DataReader["ProductID"].ToString(), dataPage.DataReader["cid"].ToString(), PutoutType));
+                    table.AddCol(string.Format("<a href=product_info_edit.aspx?productNo={0}>编辑</a> <a href='#' onclick='Del({0})'>删除</a> <a href=product_info_edit.aspx?productNo={0}>属性添加</a> <a href='../../product/productcontent.aspx?q_productid={0}' target='_blank'>SKU添加</a>", dataPage.DataReader["ProductID"].ToString(), dataPage.DataReader["cid"].ToString(), PutoutType));
 
                     
                     table.AddRow();

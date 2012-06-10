@@ -26,3 +26,17 @@ D:\New\201265\Change\YXShop.SQLServerDAL\bin\Debug\ShowShop.Model.pdb
 D:\New\201265\Change\YXShop.SQLServerDAL\obj\Debug\ResolveAssemblyReference.cache
 D:\New\201265\Change\YXShop.SQLServerDAL\obj\Debug\ShowShop.SQLServerDAL.dll
 D:\New\201265\Change\YXShop.SQLServerDAL\obj\Debug\ShowShop.SQLServerDAL.pdb
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ShowShop.SQLServerDAL.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ShowShop.SQLServerDAL.pdb
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ChangeHope.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ShowShop.IDAL.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ShowShop.Model.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\Interop.SQLDMO.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\TryCode.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ChangeHope.pdb
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ShowShop.IDAL.pdb
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\bin\Debug\ShowShop.Model.pdb
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\obj\Debug\ResolveAssemblyReference.cache
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\obj\Debug\ShowShop.SQLServerDAL.dll
+D:\GIT\showShop\Change\ShowShop.SQLServerDAL\obj\Debug\ShowShop.SQLServerDAL.pdb
