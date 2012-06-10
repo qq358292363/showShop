@@ -1,0 +1,100 @@
+F:\YM\开发项目\YXShopNew\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShopNew\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShopNew\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShopNew\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop5.0\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop_V4.6\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop_V4.7\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\bin\Debug\YXShop.Model.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Model\obj\Debug\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Model\bin\Debug\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Model\bin\Debug\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Model\obj\Debug\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Model\obj\Debug\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Model\bin\Debug\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Model\bin\Debug\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Model\obj\Debug\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb
+D:\yuanma\Shop\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+D:\yuanma\Shop\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+D:\yuanma\Shop\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\yuanma\Shop\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+D:\yuanma\Shop\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb
+F:\xiaojie\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+F:\xiaojie\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+F:\xiaojie\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+F:\xiaojie\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+F:\xiaojie\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb
+E:\xiaojie\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+E:\xiaojie\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+E:\xiaojie\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+E:\xiaojie\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb
+D:\New\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+D:\New\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+D:\New\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+D:\New\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+D:\New\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Model\bin\Debug\YXShop.Model.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Model\bin\Debug\YXShop.Model.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Model\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\2012-6-1\Change\YXShop.Model\obj\Debug\YXShop.Model.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Model\obj\Debug\YXShop.Model.pdb

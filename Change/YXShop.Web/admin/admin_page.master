@@ -1,0 +1,38 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="admin_page.master.cs" Inherits="ShowShop.Web.admin.admin_page" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" >
+
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>系统后台管理页面</title>
+    <link rel="stylesheet" href="style/admin.css" type="text/css" />
+    <script type="text/javascript" src="../scripts/prototype.js"></script>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body onload="InitForm()">
+    <form id="form1" name="form1" runat="server">
+    <div class="page_toolbar" id="pagetoolbar">
+        <div class="page_title">
+            <asp:ContentPlaceHolder ID="pagetitle" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="page_info">
+            <asp:ContentPlaceHolder ID="pageinfo" runat="server"></asp:ContentPlaceHolder>
+        </div>
+        <div class="page_sarch">
+            <asp:ContentPlaceHolder ID="pagesarch" runat="server"></asp:ContentPlaceHolder>
+        </div>
+    </div>
+    <div class="page_main">
+        <asp:ContentPlaceHolder ID="workspace" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <div class="page_bottom">
+    <asp:ContentPlaceHolder ID="pagebottom" runat="server"></asp:ContentPlaceHolder>
+    </div>
+    <div class="page_toolbar" style="text-align:center;"><span style="color:#333">版权所有 © 2005-2010 四川易网科技有限公司，并保留所有权利。</span></div>
+    </form>
+</body>
+</html>

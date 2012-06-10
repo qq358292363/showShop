@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9AC55C12-5B30-479F-BBE7-9A7E0828EF2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShowShop.BLL</RootNamespace>
+    <AssemblyName>ShowShop.BLL</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>http://localhost/YXShop.BLL/</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Accessories\AdvertiseManage.cs" />
+    <Compile Include="Accessories\Collection.cs" />
+    <Compile Include="Accessories\CommentForm.cs" />
+    <Compile Include="Accessories\CommentInfo.cs" />
+    <Compile Include="Accessories\CommentReply.cs" />
+    <Compile Include="Accessories\Hailhellowlink.cs" />
+    <Compile Include="Accessories\Leaveword.cs" />
+    <Compile Include="Accessories\Outofstock.cs" />
+    <Compile Include="Accessories\Top_Searches.cs" />
+    <Compile Include="Admin\Administrators.cs" />
+    <Compile Include="Admin\AdminLoginLog.cs" />
+    <Compile Include="Member\MailReceiver.cs" />
+    <Compile Include="Member\Integral.cs" />
+    <Compile Include="Member\Mailinfo.cs" />
+    <Compile Include="Member\MemberAccount.cs" />
+    <Compile Include="Member\MemberInfo.cs" />
+    <Compile Include="Member\MemberPropety.cs" />
+    <Compile Include="Member\MemberRank.cs" />
+    <Compile Include="Member\Message.cs" />
+    <Compile Include="Member\ReceAddress.cs" />
+    <Compile Include="Member\Role.cs" />
+    <Compile Include="Member\Roles_Permissions.cs" />
+    <Compile Include="Member\UserinAndExp.cs" />
+    <Compile Include="Member\UserInfoNote.cs" />
+    <Compile Include="Product\ProductSparepart.cs" />
+    <Compile Include="SystemInfo\Deliver.cs" />
+    <Compile Include="SystemInfo\Navigation.cs" />
+    <Compile Include="OrderCard\OrderCardInfo.cs" />
+    <Compile Include="Order\Cart.cs" />
+    <Compile Include="Order\CodeOrderStep.cs" />
+    <Compile Include="Order\ConsignMent.cs" />
+    <Compile Include="Order\InvoiceItem.cs" />
+    <Compile Include="Order\OrderLeave.cs" />
+    <Compile Include="Order\OrderProduct.cs" />
+    <Compile Include="Order\Orders.cs" />
+    <Compile Include="Order\OrderTransfer.cs" />
+    <Compile Include="Order\PaymentMoney.cs" />
+    <Compile Include="Order\PrepayMoney.cs" />
+    <Compile Include="Order\RefundMent.cs" />
+    <Compile Include="Order\RemittanceInfo.cs" />
+    <Compile Include="Order\ShoppingCard.cs" />
+    <Compile Include="Order\YXShopProfileProvider.cs" />
+    <Compile Include="Product\Deliver.cs" />
+    <Compile Include="Product\Express.cs" />
+    <Compile Include="Product\ProductAlbum.cs" />
+    <Compile Include="Product\ProductAuction.cs" />
+    <Compile Include="Product\ProductBrand.cs" />
+    <Compile Include="Product\Productclass.cs" />
+    <Compile Include="Product\ProductInfo.cs" />
+    <Compile Include="Product\ProductPropery.cs" />
+    <Compile Include="Product\ProductUnit.cs" />
+    <Compile Include="Product\Product_Auction_Bid.cs" />
+    <Compile Include="Product\ScanInfo.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SystemInfo\Article.cs" />
+    <Compile Include="SystemInfo\ArticleChannel.cs" />
+    <Compile Include="SystemInfo\CustomerSetting.cs" />
+    <Compile Include="SystemInfo\MailSetting.cs" />
+    <Compile Include="SystemInfo\PostArea.cs" />
+    <Compile Include="SystemInfo\Provinces.cs" />
+    <Compile Include="SystemInfo\TerraceManage.cs" />
+    <Compile Include="SystemInfo\WebSetting.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ChangeHope\ChangeHope.csproj">
+      <Project>{B0029D16-8421-41B9-A518-42B40EF87F98}</Project>
+      <Name>ChangeHope</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXShop.DALFactory\ShowShop.DALFactory.csproj">
+      <Project>{82C56EF8-54AD-4669-A1C5-DDB6316B393A}</Project>
+      <Name>ShowShop.DALFactory</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXShop.IDAL\ShowShop.IDAL.csproj">
+      <Project>{104AE5C2-C6A4-41E9-88BB-E3CEFF59B260}</Project>
+      <Name>ShowShop.IDAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXShop.Model\ShowShop.Model.csproj">
+      <Project>{4662AAAC-1586-4089-8668-8FF4F2699288}</Project>
+      <Name>ShowShop.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\YXShop.SQLServerDAL\ShowShop.SQLServerDAL.csproj">
+      <Project>{91E6A323-DDB0-4EE4-9AF2-5AD54624FA34}</Project>
+      <Name>ShowShop.SQLServerDAL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

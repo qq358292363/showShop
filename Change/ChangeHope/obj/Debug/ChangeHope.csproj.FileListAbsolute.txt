@@ -1,0 +1,63 @@
+D:\Disassembler\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+D:\Disassembler\ChangeHope\bin\Debug\ChangeHope.dll
+D:\Disassembler\ChangeHope\bin\Debug\ChangeHope.pdb
+D:\Disassembler\ChangeHope\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Disassembler\ChangeHope\bin\Debug\Interop.SQLDMO.dll
+D:\Disassembler\ChangeHope\obj\Debug\ChangeHope.dll
+D:\Disassembler\ChangeHope\obj\Debug\ChangeHope.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\bin\Debug\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\bin\Debug\ChangeHope.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\bin\Debug\Interop.SQLDMO.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\obj\Debug\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\ChangeHope\obj\Debug\ChangeHope.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\bin\Debug\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\bin\Debug\ChangeHope.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\bin\Debug\Interop.SQLDMO.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\obj\Debug\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\ChangeHope\obj\Debug\ChangeHope.pdb
+F:\Change\ChangeHope\bin\Debug\ChangeHope.dll
+F:\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+F:\Change\ChangeHope\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Change\ChangeHope\bin\Debug\Interop.SQLDMO.dll
+F:\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+F:\Change\ChangeHope\obj\Debug\ChangeHope.dll
+F:\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\ChangeHope\bin\Debug\ChangeHope.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+D:\Shop\eChao\程序\2012-1-30 bak\Change\ChangeHope\obj\Debug\ChangeHope.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+D:\yuanma\Shop\Change\ChangeHope\bin\Debug\ChangeHope.dll
+D:\yuanma\Shop\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+D:\yuanma\Shop\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+D:\yuanma\Shop\Change\ChangeHope\obj\Debug\ChangeHope.dll
+D:\yuanma\Shop\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+F:\xiaojie\Change\ChangeHope\bin\Debug\ChangeHope.dll
+F:\xiaojie\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+F:\xiaojie\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+F:\xiaojie\Change\ChangeHope\obj\Debug\ChangeHope.dll
+F:\xiaojie\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+E:\xiaojie\Change\ChangeHope\bin\Debug\ChangeHope.dll
+E:\xiaojie\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+E:\xiaojie\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\Change\ChangeHope\obj\Debug\ChangeHope.dll
+E:\xiaojie\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+D:\New\Change\ChangeHope\bin\Debug\ChangeHope.dll
+D:\New\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+D:\New\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+D:\New\Change\ChangeHope\obj\Debug\ChangeHope.dll
+D:\New\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+E:\xiaojie\2012-6-1\Change\ChangeHope\bin\Debug\ChangeHope.dll
+E:\xiaojie\2012-6-1\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+E:\xiaojie\2012-6-1\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\2012-6-1\Change\ChangeHope\obj\Debug\ChangeHope.dll
+E:\xiaojie\2012-6-1\Change\ChangeHope\obj\Debug\ChangeHope.pdb
+D:\New\201265\Change\ChangeHope\bin\Debug\ChangeHope.dll
+D:\New\201265\Change\ChangeHope\bin\Debug\ChangeHope.pdb
+D:\New\201265\Change\ChangeHope\obj\Debug\ResolveAssemblyReference.cache
+D:\New\201265\Change\ChangeHope\obj\Debug\ChangeHope.dll
+D:\New\201265\Change\ChangeHope\obj\Debug\ChangeHope.pdb

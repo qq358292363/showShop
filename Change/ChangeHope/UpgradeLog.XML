@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ChangeHope">
+</Property><Property Name="解决方案文件" Value="D:\Disassembler\ChangeHope\ChangeHope.sln">
+</Property><Property Name="Date" Value="2012年1月12日">
+</Property><Property Name="Time" Value="12:02:44">
+</Property></Properties><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope.csproj" Description="项目文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope.csproj">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="AssemblyInfo.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\CacheClass.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\CacheClass.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\Cookies.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\Cookies.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\DEncryptHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\DEncryptHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\EncodeHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\EncodeHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\FileHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\FileHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\HProgressBar.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\HProgressBar.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\ImageAlign.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\ImageAlign.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\ImagesHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\ImagesHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\NetWorkHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\NetWorkHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\ServerInfo.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\ServerInfo.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\SortHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\SortHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\StringHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\StringHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\TaoBaoAPI.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\TaoBaoAPI.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\TaoBaoUtil.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\TaoBaoUtil.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\UploadFile.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\UploadFile.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\UploadProcesedImages.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\UploadProcesedImages.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\ValidateHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\ValidateHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\Common\ZipHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\Common\ZipHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\DataBase\DataByPage.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\DataBase\DataByPage.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\DataBase\DataHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\DataBase\DataHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\DataBase\SQLServerHelper.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\DataBase\SQLServerHelper.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\BasePage.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\BasePage.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\DataTable.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\DataTable.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\DataView.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\DataView.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\PageRequest.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\PageRequest.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\Script.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\Script.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\Table.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\Table.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\WebControl.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\WebControl.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope\WebPage\WebHint.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\ChangeHope\WebPage\WebHint.cs">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="Global.cs" Description="文件已成功备份为 D:\Disassembler\ChangeHope\Backup\Global.cs">
+</Event><Event ErrorLevel="1" Project="ChangeHope" Source="ChangeHope.csproj" Description="您的项目以 .NET Framework 2.0 或 3.0 为目标。如果您的项目使用的程序集需要更新的 .NET Framework，则项目生成将失败。通过单击项目菜单上的“属性”，然后在“.NET Framework”下拉框中选择一个新版本，可以更改 .NET Framework 的版本。(在 Visual Basic 中，可在单击“高级编辑器选项...”按钮时显示的“编译”选项卡上找到此下拉框。)">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="ChangeHope" Source="ChangeHope.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ChangeHope" Source="ChangeHope.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

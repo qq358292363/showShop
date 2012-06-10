@@ -1,0 +1,611 @@
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\ChangeHope.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\开发项目\YXShopNew\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.Web.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.Web.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\ChangeHope.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.BLL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.Common.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.Model.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.IDAL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.Common.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.BLL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\ChangeHope.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\YXShop.Model.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\ChangeHope.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\开发项目\YXShop5.0\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\ChangeHope.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\ChangeHope.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.ExcelLite.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.ExcelLite.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\ChangeHope.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.ExcelLite.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.ExcelLite.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\Interop.SQLDMO.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\Interop.SQLDMO.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Web.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ChangeHope.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Common.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.ExcelLite.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\Interop.SQLDMO.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.TemplateAction.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.BLL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.DALFactory.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.IDAL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\bin\YXShop.Model.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.csproj.GenerateResource.Cache
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.Web\obj\Debug\YXShop.Web.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.Web.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.Web.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.BLL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.Common.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.ExcelLite.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.TemplateAction.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\Interop.SQLDMO.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.IDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\ChangeHope.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.TemplateAction.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\bin\YXShop.DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\YXShop.Web.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.Web\obj\Debug\YXShop.Web.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.Web.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.Web.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.BLL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.Common.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.ExcelLite.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.TemplateAction.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\Interop.SQLDMO.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.IDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\ChangeHope.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.TemplateAction.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\bin\YXShop.DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\YXShop.Web.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\Change\YXShop.Web\bin\YXShop.Web.dll
+F:\Change\YXShop.Web\bin\YXShop.Web.pdb
+F:\Change\YXShop.Web\bin\ChangeHope.dll
+F:\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\Change\YXShop.Web\bin\YXShop.BLL.dll
+F:\Change\YXShop.Web\bin\YXShop.Common.dll
+F:\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+F:\Change\YXShop.Web\bin\YXShop.Model.dll
+F:\Change\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\Change\YXShop.Web\bin\YXShop.IDAL.dll
+F:\Change\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\Change\YXShop.Web\bin\ChangeHope.pdb
+F:\Change\YXShop.Web\bin\YXShop.BLL.pdb
+F:\Change\YXShop.Web\bin\YXShop.Model.pdb
+F:\Change\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\Change\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\Change\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+F:\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+F:\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\Change\YXShop.Web\bin\YXShop.Common.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.Web.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.Web.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\ChangeHope.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.BLL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.Common.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.Model.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.IDAL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.DALFactory.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\ChangeHope.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.BLL.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.Common.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.Model.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.IDAL.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\bin\YXShop.DALFactory.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.Web.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.Web.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\ChangeHope.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.BLL.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.Common.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.Model.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.IDAL.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.DALFactory.dll
+D:\yuanma\Shop\Change\YXShop.Web\bin\ChangeHope.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.BLL.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.Common.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.Model.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.IDAL.pdb
+D:\yuanma\Shop\Change\YXShop.Web\bin\YXShop.DALFactory.pdb
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+D:\yuanma\Shop\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.Web.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.Web.pdb
+F:\xiaojie\Change\YXShop.Web\bin\ChangeHope.dll
+F:\xiaojie\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+F:\xiaojie\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.BLL.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.Common.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.Model.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+F:\xiaojie\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.IDAL.dll
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.DALFactory.dll
+F:\xiaojie\Change\YXShop.Web\bin\ChangeHope.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.BLL.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.Common.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.Model.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.IDAL.pdb
+F:\xiaojie\Change\YXShop.Web\bin\YXShop.DALFactory.pdb
+F:\xiaojie\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+F:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+F:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+F:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+F:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+F:\xiaojie\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+F:\xiaojie\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+F:\xiaojie\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+F:\xiaojie\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.Web.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.Web.pdb
+E:\xiaojie\Change\YXShop.Web\bin\ChangeHope.dll
+E:\xiaojie\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+E:\xiaojie\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.BLL.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.Common.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.Model.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+E:\xiaojie\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.IDAL.dll
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.DALFactory.dll
+E:\xiaojie\Change\YXShop.Web\bin\ChangeHope.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.BLL.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.Common.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.Model.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.IDAL.pdb
+E:\xiaojie\Change\YXShop.Web\bin\YXShop.DALFactory.pdb
+E:\xiaojie\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+E:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+E:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+E:\xiaojie\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+E:\xiaojie\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+E:\xiaojie\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+E:\xiaojie\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+E:\xiaojie\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.Web.dll
+D:\New\Change\YXShop.Web\bin\YXShop.Web.pdb
+D:\New\Change\YXShop.Web\bin\ChangeHope.dll
+D:\New\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+D:\New\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+D:\New\Change\YXShop.Web\bin\YXShop.BLL.dll
+D:\New\Change\YXShop.Web\bin\YXShop.Common.dll
+D:\New\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+D:\New\Change\YXShop.Web\bin\YXShop.Model.dll
+D:\New\Change\YXShop.Web\bin\YXShop.SQLServerDAL.dll
+D:\New\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+D:\New\Change\YXShop.Web\bin\YXShop.IDAL.dll
+D:\New\Change\YXShop.Web\bin\YXShop.DALFactory.dll
+D:\New\Change\YXShop.Web\bin\ChangeHope.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.BLL.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.Common.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.Model.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.SQLServerDAL.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.IDAL.pdb
+D:\New\Change\YXShop.Web\bin\YXShop.DALFactory.pdb
+D:\New\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+D:\New\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+D:\New\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+D:\New\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+D:\New\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+D:\New\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+D:\New\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+D:\New\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+D:\New\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\YXShop.Web.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\YXShop.Web.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ChangeHope.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\FredCK.FCKeditorV2.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ICSharpCode.SharpZipLib.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\YXShop.ExcelLite.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\Interop.SQLDMO.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ChangeHope.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_pay.resources
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\tenpaymd5.md5_query.resources
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\tenpaymd5.payresult.resources
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\tenpaymd5.queryresult.resources
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\GenerateResource.read.1.tlog
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\GenerateResource.write.1.tlog
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\YXShop.Web.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\obj\Debug\YXShop.Web.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.BLL.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.BLL.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.Common.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.Common.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.DALFactory.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.DALFactory.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.Model.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.SQLServerDAL.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.IDAL.dll
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.Model.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.SQLServerDAL.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.Web\bin\ShowShop.IDAL.pdb

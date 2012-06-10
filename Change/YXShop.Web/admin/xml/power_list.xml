@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <item Text="商品管理" Value="001000000">
+    <itemcc Text="商品管理" Value="001008000">
+      <lookpower Text="查看商品信息" Value="001008001"/>
+      <addpower Text="新增商品信息" Value="001008002"/>
+      <delpower Text="删除商品信息" Value="001008003"/>
+      <editpower Text="编辑商品信息" Value="001008004"/>
+    </itemcc>
+    
+    <itemc Text="商品分类管理" Value="001001000">
+      <lookpower Text="查看分类信息" Value="001001001"/>
+      <addpower Text="新增分类信息" Value="001001002"/>
+      <delpower Text="删除分类信息" Value="001001003" />
+      <editpower Text="编辑分类信息" Value="001001004"/>
+      <navpower Text="分类导航设置" Value="001001005"/>
+    </itemc>
+    
+    <itemc Text="商品品牌管理" Value="001002000">
+      <lookpower Text="查看品牌信息" Value="001002001"/>
+      <addpower Text="新增品牌信息" Value="001002002"/>
+      <delpower Text="删除品牌信息" Value="001002003" />
+      <editpower Text="编辑品牌信息" Value="001002004"/>
+    </itemc>
+    <itemc Text="商品类型管理" Value="001003000">
+      <lookpower Text="查看商品类型" Value="001003001"/>
+      <addpower Text="新增商品类型" Value="001003002"/>
+      <delpower Text="删除商品类型" Value="001003003" />
+      <alterpower Text="编辑商品类型" Value="001003004"/>
+    </itemc>
+    <itemc Text="商品单位管理" Value="001004000">
+      <lookpower Text="查看商品单位" Value="001004001"/>
+      <addpower Text="新增商品单位" Value="001004002"/>
+      <delpower Text="删除商品单位" Value="001004003" />
+      <alterpower Text="编辑商品单位" Value="001004004"/>
+    </itemc>
+    <itemc Text="商品批量导入" Value="001005000">
+      <batcth Text="商品批量导入" Value="001005006"/>
+    </itemc>
+    <itemc Text="商品批量导出" Value="001009000">
+      <export Text="商品批量导出" Value="001009007"/>
+    </itemc>
+    <itemc Text="商品批量编辑" Value="001010000">
+      <alterpower Text="商品批量编辑" Value="001010004"/>
+    </itemc>
+    <itemc Text="淘宝数据导入" Value="001006000">
+      <batcth Text="淘宝数据导入" Value="001006006"/>
+    </itemc>
+  </item>
+  
+  <item Text="促销管理" Value="002000000">
+    <itemc Text="团购商品管理" Value="002001000" >
+      <lookpower Text="查看团购商品信息" Value="002001001"/>
+      <addpower Text="增加团购商品" Value="002001002"/>
+      <delpower Text="删除团购商品" Value="002001003" />
+      <alterpower Text="修改团购商品信息" Value="002001004"/>
+      <applypower Text="申请" Value="002001005"/>
+      <editalpply Text="编辑申请" Value="002001006"/>
+    </itemc>
+    <itemc Text="拍卖商品管理" Value="002002000" >
+      <lookpower Text="查看拍卖信息" Value="002002001"/>
+      <addpower Text="增加拍卖商品" Value="002002002"/>
+      <delpower Text="删除拍卖商品" Value="002002003" />
+      <alterpower Text="修改拍卖信息" Value="002002004"/>
+    </itemc>
+  </item>
+  
+  
+  <item Text="明细记录" value="003000000">
+    <itemc Text="资金明细" value="003001000">
+      <lookpower Text="查看资金明细" Value="003001001"/>
+      <delpower Text="未确认信息删除" Value="003001003" />
+      <okpower Text="确认信息" value="003001006"/>
+    </itemc>
+    <itemc Text="商品销售明细" Value="003002000">
+      <lookpower Text="查看" Value="003002001" />
+    </itemc>
+    <itemc Text="发退货明细" Value="003003000">
+      <lookpower Text="查看" Value="003003001" />
+      <delpower Text="批量删除" Value="003003003"/>
+    </itemc>
+    <itemc Text="订单过户明细" Value="003005000">
+      <lookpower Text="查看" Value="003005001" />
+      <delpower Text="批量删除" Value="003005003"/>
+    </itemc>
+  </item>
+  
+  <item Text="其他信息" Value="004000000">
+    <itemc Text="送货方式管理" Value="004001000">
+      <lookpower Text="查看" Value="004001001"/>
+      <addpower Text="增加" Value="004001002"/>
+      <delpower Text="删除" Value="004001003" />
+      <alterpower Text="修改" Value="004001004" />
+    </itemc>
+    <itemc Text="快递公司管理" Value="004002000">
+      <lookpower Text="查看" Value="004002001"/>
+      <addpower Text="增加" Value="004002002"/>
+      <delpower Text="删除" Value="004002003" />
+      <alterpower Text="修改" Value="004002004" />
+    </itemc>
+  </item>
+  
+  <item Text="订单管理" Value="005000000">
+    <itemc Text="订单管理" Value="005001000">
+      <lookpower Text="订单详情查看" Value="005001001"/>
+      <delpower Text="删除订单" Value="005001003"/>
+      <alterpower Text="修改订单" Value="005001004"/>
+      <okpower Text="确定" Value="005001005"/>
+      <resetpower Text="取消" Value="005001006"/>
+      <discardpower Text="订单作废" Value="005001007"/>
+      <steppower Text="暂停处理" Value="005001008"/>
+      <revertpower Text="恢复正常" Value="005001009"/>
+      <settlepower Text="结清订单" Value="005001010"/>
+      <signfor Text="签收" Value="005001011"/>
+      <refund Text="退款" Value="005001012"/>
+      <consignment Text="发货" Value="005001013"/>
+      <transfer Text="订单过户" Value="005001014"/>
+    </itemc>
+  </item>
+  
+  <item Text="购物管理" Value="00600000">
+    <itemc Text="购物车管理" Value="006001000">
+      <lookpower Text="查看" Value="006001001"/>
+      <delpower Text="删除" Value="006001002" />
+    </itemc>
+  </item>
+  
+  <item Text="管理员" Value="007000000">
+    <itemc Text="管理员管理" Value="007001000">
+      <lookpower Text="查看" Value="007001001"/>
+      <addpower Text="增加" Value="007001002"/>
+      <delpower Text="删除" Value="007001003" />
+      <alterpower Text="修改" Value="007001004" />
+    </itemc>
+    <itemc Text="角色管理" Value="007002000">
+      <lookpower Text="查看" Value="007002001"/>
+      <addpower Text="增加" Value="007002002"/>
+      <delpower Text="删除" Value="007002003" />
+      <alterpower Text="修改" Value="007002004" />
+      <rolerun Text="权限管理" Value="007002005" />
+      <setmempower Text="设置成员" Value="007002006"/>
+    </itemc>
+  </item>
+  <item Text="会员管理" Value="008000000">
+    <itemc Text="会员管理" Value="008001000">
+      <lookpower Text="查看" Value="008001001"/>
+      <delpower Text="删除" Value="008001003" />
+      <alterpower Text="修改" Value="008001004" />
+      <statupower Text="编辑状态" Value="008001006"/>
+      <etimepower Text="编辑有效期" Value="008001007"/>
+      <bonuspower Text="编辑奖金" Value="008001008"/>
+      <wrappower Text="编辑点卷" Value="008001009"/>    
+    </itemc>
+    <itemc Text="添加会员" Value="008002000">
+      <addpower Text="添加" Value="008002002"/>
+    </itemc>
+    <itemc Text="会员等级管理" Value="008003000">
+      <lookpower Text="查看" Value="008003001"/>
+      <addpower Text="增加" Value="008003002"/>
+      <delpower Text="删除" Value="008003003" />
+      <alterpower Text="修改" Value="008003004" />
+    </itemc>
+    <itemc Text="充值卡管理" Value="008004000">
+      <lookpower Text="查看" Value="008004001"/>
+      <addpower Text="增加" Value="008004002"/>
+      <delpower Text="删除" Value="008004003" />
+      <alterpower Text="修改" Value="008004004" />
+    </itemc>
+    <itemc Text="资金明细" Value="008005000">
+      <lookpower Text="查看" Value="008005001"/>
+      <delpower Text="未确认删除" Value="008005003" />
+      <alterpower Text="确定" Value="008005004" />
+    </itemc>
+    <itemc Text="有效期明细" Value="008006000">
+      <lookpower Text="查看" Value="008006001"/>
+      <delpower Text="批量删除" Value="008006003" />
+    </itemc>
+    <itemc Text="点卷明细" Value="008007000">
+      <lookpower Text="查看" Value="008007001"/>
+      <delpower Text="批量删除" Value="008007003" />
+    </itemc>
+  </item>
+  <item Text="咨讯频道" Value="009000000">
+    <itemc Text="咨讯频道" Value="009001000">
+      <lookpower Text="查看" Value="009001001"/>
+      <addpower Text="增加" Value="009001002"/>
+      <alterpower Text="修改" Value="009001004" />
+    </itemc>
+    <itemc Text="咨讯管理" Value="009002000">
+      <lookpower Text="查看" Value="009002001"/>
+      <addpower Text="增加" Value="009002002"/>
+      <delpower Text="删除" Value="009002003" />
+      <alterpower Text="修改" Value="009002004" />
+    </itemc>
+  </item>
+  <item Text="系统设置" Value="010000000">
+    <itemc Text="网站配置" Value="010001000">
+      <webparams Text="查看网站参数配置" Value="010001006" />
+      <webparamsupdate Text="修改网站参数配置" Value="010001007"/>
+      <!--需要独立出来<chanel Text="网站频道配置" Value="009001007"/>-->
+      <goodsparams Text="商品参数配置" Value="010001008"/>
+      <goodsparamsupdate Text="修改商品参数配置" Value="010001012"/>
+      <users Text="查看用户参数配置" Value="010001009"/>
+      <usersparamsupdate Text="修改用户参数配置" Value="010001013"/>
+      <mails Text="查看邮件参数配置" Value="010001010"/>
+      <mailsparamsupdate Text="修改邮件参数配置" Value="010001014"/>
+      <simg Text="查看缩略图参数配置" Value="010001011"/>
+      <simgparamsupdate Text="修改缩略图参数配置" Value="010001015"/>
+      <!--需要独立出来<area Text="地区分站参数配置" Value="009001012"/>-->
+    </itemc>
+    <itemc Text="支付管理" Value="010002000">
+      <lookpower Text="查看" Value="010002001"/>
+      <addpower Text="增加" Value="010002002"/>
+      <delpower Text="删除" Value="010002003" />
+      <alterpower Text="修改" Value="010002004" />
+    </itemc>
+    <itemc Text="银行帐户" Value="010003000">
+      <lookpower Text="查看" Value="010003001"/>
+      <addpower Text="增加" Value="010003002"/>
+      <delpower Text="删除" Value="010003003" />
+      <alterpower Text="修改" Value="010003004" />
+    </itemc>
+    <itemc Text="地区分站参数配置" Value="010004000">
+      <lookpower Text="查看" Value="010004001"/>
+      <addpower Text="增加城市" Value="010004002"/>
+      <delpower Text="删除" Value="010004003" />
+      <alterpower Text="修改" Value="010004004"/>
+    </itemc>
+    <itemc Text="模型类别管理" Value="010005000">
+      <lookpower Text="查看" Value="010005001"/>
+      <addpower Text="增加" Value="010005002"/>
+      <delpower Text="删除" Value="010005003" />
+      <alterpower Text="修改" Value="010005004" />
+    </itemc>
+    <itemc Text="模型信息管理" Value="010006000">
+      <lookpower Text="查看" Value="010006001"/>
+      <addpower Text="增加" Value="010006002"/>
+      <delpower Text="删除" Value="010006003" />
+      <alterpower Text="修改" Value="010006004" />
+    </itemc>
+  </item>
+  <item Text="模板标签" Value="011000000">
+    <itemc Text="模板管理" Value="011001000">
+      <lookpower Text="查看" Value="011001001"/>
+      <addpower Text="增加" Value="011001002"/>
+      <delpower Text="删除" Value="011001003" />
+      <alterpower Text="修改" Value="011001004" />
+    </itemc>
+    <itemc Text="标签管理" Value="011002000">
+      <lookpower Text="查看" Value="011002001"/>
+      <addpower Text="增加" Value="011002002"/>
+      <delpower Text="删除" Value="011002003" />
+      <alterpower Text="修改" Value="011002004" />
+    </itemc>
+    <itemc Text="自由标签管理" Value="011003000">
+      <lookpower Text="查看" Value="011003001"/>
+      <addpower Text="增加" Value="011003002"/>
+      <delpower Text="删除" Value="011003003" />
+      <alterpower Text="修改" Value="011003004" />
+    </itemc>
+  </item>
+  <item Text="附件管理" Value="012000000">
+    <itemc Text="广告管理" Value="012001000">
+      <lookpower Text="查看" Value="012001001"/>
+      <addpower Text="增加" Value="012001002"/>
+      <delpower Text="删除" Value="012001003" />
+      <alterpower Text="修改" Value="012001004" />
+      <getparams Text="生成JS" Value="012001006"/>
+    </itemc>
+    <itemc Text="调查问卷" Value="012002000">
+      <lookpower Text="查看" Value="012002001"/>
+      <addpower Text="增加" Value="012002002"/>
+      <delpower Text="删除" Value="012002003" />
+      <alterpower Text="修改" Value="012002004" />
+      <examine Text="查看投票记录" Value="012002006"/>
+    </itemc>
+    <itemc Text="留言信息管理" Value="012003000">
+      <lookpower Text="查看" Value="012003001"/>
+      <addpower Text="增加" Value="012003002"/>
+      <delpower Text="删除" Value="012003003" />
+      <sendmail Text="回复信息" Value="012003006"/>
+      <auditing Text="审核" Value="012003007"/>
+    </itemc>
+    <itemc Text="热门搜索设置" Value="012004000">
+      <lookpower Text="查看" Value="012004001"/>
+      <addpower Text="增加" Value="012004002"/>
+      <delpower Text="删除" Value="012004003" />
+      <alterpower Text="修改" Value="012004004" />
+    </itemc>
+    <itemc Text="点评信息" Value="012005000">
+      <lookpower Text="查看" Value="012005001"/>
+      <addpower Text="增加" Value="012005002"/>
+      <delpower Text="删除" Value="012005003" />
+      <alterpower Text="修改" Value="012005004" />
+    </itemc>
+    <itemc Text="友情链接管理" Value="012006000">
+      <lookpower Text="查看" Value="012005001"/>
+      <delpower Text="删除" Value="012005003" />
+      <alterpower Text="修改" Value="012005004" />
+    </itemc>
+    <itemc Text="添加友情链接" Value="012007000">
+      <addpower Text="增加" Value="012007002" />
+    </itemc>
+    <itemc Text="缺货登记" Value="012008000">
+      <lookpower Text="查看" Value="012008001"/>
+      <delpower Text="删除" Value="012008003" />
+    </itemc>
+    <itemc Text="商品收藏管理" Value="012009000">
+      <lookpower Text="查看" Value="012009001"/>
+      <delpower Text="删除" Value="012009003" />
+    </itemc>
+    <itemc Text="图片管理" Value="012010000">
+      <lookpower Text="查看" Value="012010001"/>
+      <delpower Text="删除" Value="012010003" />
+      <addpower Text="导入图片" Value="012010002" />
+    </itemc>
+    <itemc Text="数据管理" Value="012011000">
+      <bak Text="备份数据库" Value="012011006"/>
+      <delpower Text="删除" Value="012011003"/>
+      <exe Text="执行SQL语句" Value="012011007" />
+    </itemc>
+  </item>
+  <item Text="店铺管理" Value="013000000">
+    <itemc Text="店铺类型管理" Value="013001000">
+      <lookpower Text="查看" Value="013001001"/>
+      <addpower Text="增加" Value="013001002"/>
+      <delpower Text="删除" Value="013001003" />
+      <alterpower Text="修改" Value="013001004" />
+    </itemc>
+    <itemc Text="店铺等级管理" Value="013002000">
+      <lookpower Text="查看" Value="013002001"/>
+      <addpower Text="增加" Value="013002002"/>
+      <delpower Text="删除" Value="013002003" />
+      <alterpower Text="修改" Value="013002004" />
+    </itemc>
+    
+    <itemc Text="店铺信息管理" Value="013003000">
+      <lookpower Text="查看" Value="013003001"/>
+      <addpower Text="增加" Value="013003002"/>
+      <delpower Text="删除" Value="013003003" />
+      <alterpower Text="修改" Value="013003004" />
+    </itemc>
+    
+    <itemc Text="店铺域名管理" Value="013004000">
+      <lookpower Text="查看" Value="013004001"/>
+      <addpower Text="增加" Value="013004002"/>
+      <delpower Text="删除" Value="013004003" />
+      <alterpower Text="修改" Value="013004004" />
+    </itemc>
+
+    <itemc Text="店铺公告管理" Value="013005000">
+      <lookpower Text="查看" Value="013005001"/>
+      <addpower Text="增加" Value="013005002"/>
+      <delpower Text="删除" Value="013005003" />
+      <alterpower Text="修改" Value="013005004" />
+    </itemc>
+    
+  </item>
+</root>
+<!--
+此XML为后台管理员权限的详细设置文档，不能修改里面的内容，否则会发生不可预知的错误：
+1.此XML没有采用xml schema或DTD进行格式验证，但严格根据以下描述编写
+  a.基本结构
+    <item><itemc><...><.../></itemc></item>
+    或者
+    <item><...><.../></item>
+  b.所有结点都必须拥有Text,Value属性
+2.系统默认规范标准
+ a.基本操作标签
+    查看权限<lookpower .. ../>
+    添加权限<addpower .. ../>
+    删除权限<delpower .. ../>
+    修改权限<alterpower .. ../>
+ b.查看，添加，删除，修改的Value值分别以001,002,003,004结尾，
+    注：就算没有对应权限，也应该把位置保留
+3.Value值采用三段结构，每一段为３位数字，不足的在数字前面加０，然后联结成字符串
+  如：Value值005002001分解为005，002，001
+  第一段为根权限的序号，即为<item Text='...' Value='005....'>...的序号
+  第二段为中间权限的序号，即为<itemc Text='...' Value='005002..'>...的序号
+  第三段为详细权限的序号，即为<lookpower Text='...' Value='005002001'/>的序号，最后001代表查看权限，为基本权限
+-->
+

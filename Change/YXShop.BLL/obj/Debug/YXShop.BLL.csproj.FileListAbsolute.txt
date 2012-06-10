@@ -1,0 +1,363 @@
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShopNew\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShopNew\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\TryCode.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\开发项目\Shop\YXShopNew\YXShopNew\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop5.0\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShop_V4.6\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\开发项目\YXShop_V4.7\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\YXShop_V4.7\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\TryCode.dll
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\YM\YXShop发布版本\YxShop_V4.7.1\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\TryCode.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载代码\下载代码\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\TryCode.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+E:\易想商城\YxShop_V4.71\YXShop_V4.71\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ChangeHope.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\TryCode.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+D:\YsShop\YXShop_V4.7.1\下载版\ChangeHope_YxShop_Sourcee_V4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\TryCode.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7.1\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\ChangeHope.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.Model.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\TryCode.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+C:\Documents and Settings\Administrator\桌面\ChangeHope_YxShop_Sourcee_4.7\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\Change\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\Change\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\Change\YXShop.BLL\bin\Debug\TryCode.dll
+F:\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Change\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\Change\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\TryCode.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+D:\Shop\eChao\程序\2012-1-30 bak\Change\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\TryCode.dll
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+D:\yuanma\Shop\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\yuanma\Shop\Change\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+D:\yuanma\Shop\Change\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\TryCode.dll
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+F:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+F:\xiaojie\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+F:\xiaojie\Change\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+F:\xiaojie\Change\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\TryCode.dll
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+E:\xiaojie\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+E:\xiaojie\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\Change\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+E:\xiaojie\Change\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.BLL.dll
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.BLL.pdb
+D:\New\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+D:\New\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+D:\New\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\New\Change\YXShop.BLL\bin\Debug\TryCode.dll
+D:\New\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+D:\New\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+D:\New\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+D:\New\Change\YXShop.BLL\obj\Debug\YXShop.BLL.dll
+D:\New\Change\YXShop.BLL\obj\Debug\YXShop.BLL.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\ChangeHope.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.Model.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\Interop.SQLDMO.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\TryCode.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\ChangeHope.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.DALFactory.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.IDAL.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.Model.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\YXShop.SQLServerDAL.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\obj\Debug\ResolveAssemblyReference.cache
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\ShowShop.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\bin\Debug\ShowShop.pdb
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\obj\Debug\ShowShop.dll
+E:\xiaojie\2012-6-1\Change\YXShop.BLL\obj\Debug\ShowShop.pdb
