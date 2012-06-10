@@ -128,11 +128,11 @@ namespace ShowShop.Web.admin.product
             string view = table.GetTable() + dataPage.PageToolBar;
             dataPage.Dispose();
             dataPage = null;
-            this.Literal1.Text = view;
+            this.Literal1.Text = view; 
         }
         /// <summary>
         /// 获取分类
-        /// </summary>
+        /// </summary>      
         /// <param name="strId"></param>
         /// <returns></returns>
         protected string ProductClassName(string strId)

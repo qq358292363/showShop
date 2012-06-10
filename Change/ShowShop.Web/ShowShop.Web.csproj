@@ -86,6 +86,8 @@
     <Content Include="admin\order\order_shop_list.aspx" />
     <Content Include="admin\order\order_shop_view.aspx" />
     <Content Include="admin\product\product_comment_list.aspx" />
+    <Content Include="admin\product\Product_Property.aspx" />
+    <Content Include="admin\product\Product_PropertyValue.aspx" />
     <Content Include="admin\switchframe.html" />
     <Content Include="Properties\YXShop_V4.7.sln" />
     <Content Include="admin\scripts\validate.js" />
@@ -633,6 +635,20 @@
     </Compile>
     <Compile Include="admin\product\product_info_edit.aspx.designer.cs">
       <DependentUpon>product_info_edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\product\Product_Property.aspx.cs">
+      <DependentUpon>Product_Property.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\product\Product_Property.aspx.designer.cs">
+      <DependentUpon>Product_Property.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="admin\product\Product_PropertyValue.aspx.cs">
+      <DependentUpon>Product_PropertyValue.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="admin\product\Product_PropertyValue.aspx.designer.cs">
+      <DependentUpon>Product_PropertyValue.aspx</DependentUpon>
     </Compile>
     <Compile Include="admin\product\product_specialspecification.aspx.cs">
       <DependentUpon>product_specialspecification.aspx</DependentUpon>

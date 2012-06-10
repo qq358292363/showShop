@@ -21,7 +21,7 @@ outlookbar.additem('商品添加', t, 'product/product_info_edit.aspx');
 outlookbar.additem('商品分类管理',t,'product/productclass_list.aspx?w_d_fatherid=0');
 outlookbar.additem('商品品牌管理',t,'product/productbrand_list.aspx');
 outlookbar.additem('商品单位管理', t, 'product/productunit_list.aspx');
-outlookbar.additem('属性管理', t, 'product/productunit_list.aspx');
+outlookbar.additem('属性管理', t, 'product/Product_Property.aspx');
 //outlookbar.additem('商品批量导入',t,'product/product_import.aspx');
 //outlookbar.additem('商品批量导出',t,'product/product_batch_export.aspx');
 //outlookbar.additem('商品批量编辑',t,'product/product_batch_edit.aspx');
